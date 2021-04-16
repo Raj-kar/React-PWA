@@ -1,2 +1,2 @@
 # React-PWA 
-## Website - [http://raj-react.netlify.app/](here)
+## Website - [React PWa](http://raj-react.netlify.app/)
